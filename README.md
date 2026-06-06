@@ -2,7 +2,7 @@
 
 Anggota kelompok:
 
-1.Ibnu Ad'ha Hasibuan 251401116
+1.Ibnu Ad'ha Hasibuan 251401116(projek2)
 
 2.Dwaia Prananta Ginting 251401128(projek1)
 
@@ -10,7 +10,7 @@ Anggota kelompok:
 
 4.Billiam Agsa Tatema Hia 251401110(projek4)
 
-5.Frans Eikel Martogi Simanulang 251401134
+5.Frans Eikel Martogi Simanulang 251401134(projek5)
 
 
 Link screenshot :
